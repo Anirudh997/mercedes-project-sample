@@ -49,6 +49,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>mercedes-project-sample</finalName>
 	</build>
 
 </project>
